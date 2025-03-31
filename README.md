@@ -24,7 +24,7 @@ Tested on Firefox ESR 128.8.0, March 31, 2025.
 5. Done.
 
 ## Why NoGreedCookie?
-Tracking without consent is spying—end of story. This extension fights back: you decide what runs, not ad networks. Guardian can ask for support (fair game), but hidden greed gets shut down. GPLv3 keeps it free—forever.
+Tracking without consent is spying—end of story. This extension counter back: you decide what runs, not ad networks. Hidden greed gets shut down. GPLv3 keeps it free—forever.
 
 ## License
 GNU General Public License v3 (GPLv3)—free to use, modify, share, as long as derivatives stay open. Copyright © 2025 laksh8ster. See [LICENSE](LICENSE) for details.
