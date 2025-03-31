@@ -1,11 +1,11 @@
 # NoGreedCookie
-A Firefox extension that kills tracking cookies and third-party greed while keeping your logins alive. Say goodbye to GitHub’s `_octo`, Verge’s 16+ trackers, and Guardian’s `GU_mvt_id`—all without breaking sites like Facebook. Privacy-first, no sneaky nonsense.
+A Firefox extension that wipes out tracking cookies and third-party greed while preserving your logins. Blocks GitHub’s `_octo`, Verge’s 16+ trackers, Guardian’s `GU_mvt_id`—keeps FB functional. Privacy-first, no sneaky tracking allowed.
 
 ## Features
-- **Tracker Blocking**: Axes `_ga`, `_octo`, `GU_mvt_id`, and more—stops ads and spies cold.
-- **Third-Party Shield**: Blocks scripts from DoubleClick, Google Analytics, Chartbeat—no external greed.
-- **Session Safe**: Keeps logins working (e.g., 9 Kept on GitHub, 4 on FB)—no interruptions.
-- **Auto-Updates**: Stays fresh via GitHub—no manual reloads.
+- **Tracker Blocking**: Kills `_ga`, `_octo`, `GU_mvt_id`, and more—stops ads and spies dead.
+- **Third-Party Shield**: Axes scripts from DoubleClick, Google Analytics, Chartbeat—no external greed.
+- **Session Safe**: Protects logins (e.g., 9 Kept on GitHub, 4 on FB)—no disruptions.
+- **Auto-Updates**: Stays sharp via GitHub—freedom without hassle.
 - **Lightweight**: Clears logs on tab close—zero bloat.
 
 ## Stats
@@ -20,17 +20,17 @@ Tested on Firefox ESR 128.8.0, March 31, 2025.
 1. Download the zip; NoGreedCookie - (https://github.com/laksh8ster/NoGreedCookie/archive/refs/heads/main.zip).
 2. Rename from .zip to .xpi
 3. Open Firefox: `about:addons > Gear icon > Install Add-on From File`.
-4. Select the `.xpi`—click “Proceed with caution” past the unsigned warning (ESR quirk, even with AMO signing).
-5. Done—trackers blocked, updates roll in from GitHub!
+4. Pick the `.xpi`—click “Proceed with caution” past the unsigned warning (ESR quirk, even with AMO signing).
+5. Done.
 
 ## Why NoGreedCookie?
-Tracking without clear consent is spying—plain and simple. This extension flips the script: you control what runs, not ad networks. Guardian can beg for cash (fair play), but hidden greed gets no love.
+Tracking without consent is spying—end of story. This extension fights back: you decide what runs, not ad networks. Guardian can ask for support (fair game), but hidden greed gets shut down. GPLv3 keeps it free—forever.
 
 ## License
-MIT License—free to use, modify, share. Copyright © 2025 laksh8ster. See [LICENSE](LICENSE) for details.
+GNU General Public License v3 (GPLv3)—free to use, modify, share, as long as derivatives stay open. Copyright © 2025 laksh8ster. See [LICENSE](LICENSE) for details.
 
 ## Get Involved
 - Fork it, tweak it, report bugs—pull requests welcome!
-- Questions? Ping me on X or here.
+- Questions? Hit me on X or here.
 
-No greed, just clean cookies—built for privacy, not profit.
+No greed, just clean cookies—built for privacy, locked open with GPLv3.
