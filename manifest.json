@@ -13,8 +13,8 @@
   },
   "browser_specific_settings": {
   "gecko": {
-    "id": "cleancookie@yourname",
-    "update_url": "https://raw.githubusercontent.com/yourusername/CleanCookie/main/updates.json"
+    "id": "cleancookie@laksh8ster",
+    "update_url": "https://raw.githubusercontent.com/laksh8ster/NoGreedCookie/main/updates.json"
   }
  }
 }
