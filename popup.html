@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CleanCookie</title>
+    <style>
+      body { font-family: Arial, sans-serif; padding: 10px; width: 300px; }
+      h3, h4 { color: #333; }
+      .section { margin: 10px 0; }
+      .count { font-weight: bold; color: #0066cc; }
+      .explain { font-size: 12px; color: #666; }
+      ul { list-style: none; padding: 0; }
+      li { padding: 2px; }
+      pre { font-size: 10px; max-height: 200px; overflow-y: auto; background: #f0f0f0; padding: 5px; }
+    </style>
+  </head>
+  <body>
+    <h3>Your Cookie Report</h3>
+    <div class="section">
+      <span class="count" id="keptCount">0</span> Kept (Good)
+      <p class="explain">These help you log in or use the site—safe stuff.</p>
+    </div>
+    <div class="section">
+      <span class="count" id="blockedCount">0</span> Blocked (Trackers)
+      <p class="explain">Ads or companies spying on you—stopped cold.</p>
+    </div>
+    <div class="section">
+      <span class="count" id="allowedCount">0</span> Allowed (Maybe Needed)
+      <p class="explain">Not trackers, might be for site features—watch these.</p>
+      <ul id="allowedList"></ul>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>
