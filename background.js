@@ -46,7 +46,7 @@ browser.webNavigation.onCommitted.addListener(
           "_ga", "_fbp", "ad", "_utm", "_gid", "guest_id", "personalization_id", "twid",
           "__cf_bm", "gt", "ct0", "_gcl", "_parsely", "pbjs", "_tt", "_ttp",
           "fr", "nid", "dpr", "wd", "ubid", "blaize", "lr", "vm", "csm", "datr",
-          "track", "analytics", "chartbeat", "gads", "gpi", "eoi", "mvt", "_octo" // Added
+          "track", "analytics", "chartbeat", "gads", "gpi", "eoi", "mvt", "_octo", "_device_id"
         ];
         if (trackerPatterns.some(pattern => cookie.name.toLowerCase().includes(pattern)) &&
           !(isFBLogin && fbLoginCookies.includes(cookie.name))) {
