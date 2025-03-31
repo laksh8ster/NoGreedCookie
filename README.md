@@ -17,10 +17,11 @@ A Firefox extension that kills tracking cookies and third-party greed while keep
 Tested on Firefox ESR 128.8.0, March 31, 2025.
 
 ## Install
-1. Download the code [NoGreedCookie-v1.3.
-2. Open Firefox: `about:addons > Gear icon > Install Add-on From File`.
-3. Select the `.xpi`—click “Proceed with caution” past the unsigned warning (ESR quirk, even with AMO signing).
-4. Done—trackers blocked, updates roll in from GitHub!
+1. Download the zip; NoGreedCookie - (https://github.com/laksh8ster/NoGreedCookie/archive/refs/heads/main.zip).
+2. Rename from .zip to .xpi
+3. Open Firefox: `about:addons > Gear icon > Install Add-on From File`.
+4. Select the `.xpi`—click “Proceed with caution” past the unsigned warning (ESR quirk, even with AMO signing).
+5. Done—trackers blocked, updates roll in from GitHub!
 
 ## Why NoGreedCookie?
 Tracking without clear consent is spying—plain and simple. This extension flips the script: you control what runs, not ad networks. Guardian can beg for cash (fair play), but hidden greed gets no love.
